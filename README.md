@@ -50,6 +50,7 @@ This is the best way to start from nothing. Here, I list a few of the best video
    * [Natural Language Processing and Large Language Models](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvYskDS2icIItfZgxclApVLv) - amazing video introductions to the attention mechanism, tokens, embeddings and more to better understand everything behind large language models like GPT by [Luis Serrano](https://twitter.com/SerranoAcademy).
    * [What are Transformer Models and how do they work?](https://youtu.be/qaWMOYf4ri8) - [Luis Serrano](https://twitter.com/SerranoAcademy)
    * [The Illustrated Word2vec - A Gentle Intro to Word Embeddings in Machine Learning](https://youtu.be/ISPId9Lhc1g) - A clear explanation of word embeddings in machine learning by [Jay Alammar](https://twitter.com/JayAlammar).
+   * [A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU) - by [Jeremy Howard (fast.ai)](https://twitter.com/jeremyphoward).
 
 Another easy **way to get started and keep learning is by listening to podcasts** in your spare time. Driving to work, on the bus, or having trouble falling asleep? Listen to some AI podcasts to get used to the terms and patterns, and learn about the field through inspiring stories! I invite you to follow a few of the best I personally prefer, like [Lex Fridman](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL), [Machine Learning Street Talk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR), and obviously, my podcast: [What's AI by Louis Bouchard](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3), where you will learn about incredibly talented people in the field with inspiring stories sharing the knowledge they worked so hard to gather. A new one I really enjoy listening to that keeps me up to date is the [ThursdAI podcast](https://thursdai.news/) by my friend [Alex Volkov](https://twitter.com/altryne).
 
@@ -104,10 +105,11 @@ Here are a few of the most applied courses I could find for LLMs:
 ## Prompting<a name="prompting"></a>
 
 * [Prompting!](https://learnprompting.org/) Prompting is a new skill that you should master if you want to build NLP-related apps. This is a great course I am contributing to, intending to teach prompting and give tips for specific models.
+* 
 
-## Retrieval Augmented Generation (RAG)<a name="rag"></a>
+## More on Retrieval Augmented Generation (RAG)<a name="rag"></a>
 
-TODO
+TODO (jeremy tuto, openai tuto, TAI tuto...)
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40whats_ai)](https://twitter.com/Whats_AI)
 
