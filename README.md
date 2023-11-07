@@ -88,6 +88,7 @@ If you like some more guidance, I can advise checking out (optional) online cour
  _"Break into the NLP space. Master cutting-edge NLP techniques through four hands-on courses!"_
 * [An NLP Nano Degree!](https://imp.i115008.net/jW4K60) — Paid
 _"Learn cutting-edge natural language processing techniques to process speech and analyze text. Build probabilistic and deep learning models, such as hidden Markov models and recurrent neural networks, to teach the computer to do tasks such as speech recognition, machine translation, and more!"_
+* [Introduction to Large Language Models with Google Cloud](https://imp.i115008.net/eKbDLD) - Paid
 
 You can easily google for more, but after reading and watching those, I believe you already have a good enough understanding of LLMs to get into the real deal: practice.
 
