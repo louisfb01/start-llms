@@ -113,7 +113,7 @@ Prompting is an important new skill to learn for both using the models and build
 
 * [What is Prompting? Talking with AI Models...](https://youtu.be/pZsJbYIFCCw) - Free
 * [ChatGPT Prompt Engineering for Developers](https://imp.i384100.net/rQBVMy) - Paid
-* [Prompting!](https://learnprompting.org/) - This is a great **free** course I am contributing to, intending to teach prompting and give tips for specific models.
+* [Prompting!](https://learnprompting.org/) - This is a great **free** course intending to teach prompting and give tips for specific models. It is **all you need** for prompting!
 
 
 ## More on Retrieval Augmented Generation (RAG)<a name="rag"></a>
@@ -132,6 +132,7 @@ Most people build RAG-based apps currently. Here are a few resources that I love
 
 * [A Discord server with many AI enthusiasts](https://discord.gg/learnaitogether) - Learn together, ask questions, find kaggle teammates, share your projects, and more.
 * [A Discord server where you can stay up-to-date with the latest AI news](https://ws.towardsai.net/discord) - Stay up-to-date with the latest AI news, ask questions, share your projects, and much more.
+* [Learn Prompting Discord community](https://discord.gg/learn-prompting-1046228027434086460) - Chat with fellow prompt engineers.
 
 * Follow reddit communities - Ask questions, share your projects, follow news, and more.
     * [artificial](https://www.reddit.com/r/artificial/) - Artificial Intelligence
@@ -171,7 +172,7 @@ Most people build RAG-based apps currently. Here are a few resources that I love
    * [AI Weekly](http://aiweekly.co/) - A weekly collection of AI News and resources on Artificial Intelligence and Machine Learning.
    * [AI Ethics Weekly](https://lighthouse3.com/newsletter/) - The latest updates in AI Ethics delivered to your inbox every week.
    * [What's AI Weekly](https://louisbouchard.substack.com/) - One and only one paper clearly explained weekly with an article, video demo, demo, code, etc.
-   * [Data Science Dojo Newsletter](https://datasciencedojo.com/newsletter/) - Get the latest Data Science content in your inbox
+   * [ThursdAI](https://sub.thursdai.news/) - Recaps of the most high signal AI weekly spaces!
    * [Toward's AI newsletter](https://towardsai.net/ai/newsletter) - Summarizing the most interesting news and learning resources weekly as well as community updates from the Learn AI Together Discord community. Perfect for ML professionals and enthusiasts.
     
 * Follow Medium publications
@@ -192,8 +193,7 @@ Most people build RAG-based apps currently. Here are a few resources that I love
 
 
 ## Learn more and do more... with LLMs<a name="domore"></a>
-
-TODO
+ChatGPT, Bing, Claude... are incredible. Of course, they have limitations. Yet, you can leverage those to learn anything you want. I use it for coding or asking lots of questions in general. You need to double-check when you ask for important questions.
 
 ---
 
