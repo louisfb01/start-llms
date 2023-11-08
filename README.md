@@ -51,6 +51,7 @@ This is the best way to start from nothing. Here, I list a few of the best video
    * [What are Transformer Models and how do they work?](https://youtu.be/qaWMOYf4ri8) - [Luis Serrano](https://twitter.com/SerranoAcademy)
    * [The Illustrated Word2vec - A Gentle Intro to Word Embeddings in Machine Learning](https://youtu.be/ISPId9Lhc1g) - A clear explanation of word embeddings in machine learning by [Jay Alammar](https://twitter.com/JayAlammar).
    * [A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU) - by [Jeremy Howard (fast.ai)](https://twitter.com/jeremyphoward).
+   * [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY) - by [Andrej Karpathy](https://twitter.com/karpathy).
 
 Another easy **way to get started and keep learning is by listening to podcasts** in your spare time. Driving to work, on the bus, or having trouble falling asleep? Listen to some AI podcasts to get used to the terms and patterns, and learn about the field through inspiring stories! I invite you to follow a few of the best I personally prefer, like [Lex Fridman](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL), [Machine Learning Street Talk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR), and obviously, my podcast: [What's AI by Louis Bouchard](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3), where you will learn about incredibly talented people in the field with inspiring stories sharing the knowledge they worked so hard to gather. A new one I really enjoy listening to that keeps me up to date is the [ThursdAI podcast](https://thursdai.news/) by my friend [Alex Volkov](https://twitter.com/altryne).
 
@@ -71,13 +72,14 @@ If you prefer the article and reading path, here are some suggestions:
 * [Reading lists for new MILA students](https://docs.google.com/document/d/1IXF3h0RU5zz4ukmTrVKVotPQypChscNGf5k6E25HGvA/edit#) - Anonymous
 * [A complete roadmap to master NLP in 2022](https://www.analyticsvidhya.com/blog/2022/01/roadmap-to-master-nlp-in-2022/)
 * NLTK Book is the free resource to learn about fundamental theories behind NLP: https://www.nltk.org/book/
+* [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) - Harvard
+
 
 ## Follow online courses<a name="courses"></a>
 If you like some more guidance, I can advise checking out (optional) online courses, such as...
 * [Generative AI with Large Language Models](https://imp.i384100.net/R5WzQR) - Paid
 * [Become an NLP pro with Coursera's Natural Language Processing Specialization by deeplearning.ai](https://coursera.pxf.io/P0vO9e) - Paid
 * [Gradio Course - Create User Interfaces for Machine Learning Models - freeCodeCamp](https://youtu.be/RiCQzBluTxU) - Free
-* [ChatGPT Prompt Engineering for Developers](https://imp.i384100.net/rQBVMy) - Paid
 * [Train & Fine-Tune LLMs for Production Course by Activeloop, Towards AI & Intel Disruptor](https://learn.activeloop.ai/courses/llms/?utm_source=social&utm_medium=youtube&utm_campaign=llmcourse) - Free
 * [The LLM University by Cohere](https://docs.cohere.com/docs/llmu?ref=txt.cohere.com) - Free
 * [Become an NLP pro with Coursera's Natural Language Processing Specialization by deeplearning.ai](https://coursera.pxf.io/P0vO9e) - Paid
@@ -85,8 +87,10 @@ If you like some more guidance, I can advise checking out (optional) online cour
 * [An NLP Nano Degree!](https://imp.i115008.net/jW4K60) — Paid
 _"Learn cutting-edge natural language processing techniques to process speech and analyze text. Build probabilistic and deep learning models, such as hidden Markov models and recurrent neural networks, to teach the computer to do tasks such as speech recognition, machine translation, and more!"_
 * [Introduction to Large Language Models with Google Cloud](https://imp.i115008.net/eKbDLD) - Paid
+* [Learn to train, fine-tune and use LLMs in your applications.](https://www.wandb.courses/pages/w-b-courses) - Free by Weights & Biases
 
 You can easily google for more, but after reading and watching those, I believe you already have a good enough understanding of LLMs to get into the real deal: practice.
+
 
 ## Practice, practice, and practice!<a name="practice"></a>
 ### Practice is key
@@ -103,16 +107,25 @@ Here are a few of the most applied courses I could find for LLMs:
 
 A reminder. The best way to learn is to build something! I really prone to learn by doing. Those courses are all great but optional. You can do it on your own, and most companies providing resources for working with LLMs (OpenAI, LangChain, Activeloop, Cohere, W&B...) have great tutorials to get you started and build something. Then, you can [ask ChatGPT](#domore) to help you finish it!
 
-## Prompting<a name="prompting"></a>
 
-* [Prompting!](https://learnprompting.org/) Prompting is a new skill that you should master if you want to build NLP-related apps. This is a great course I am contributing to, intending to teach prompting and give tips for specific models.
-* 
+## Prompting<a name="prompting"></a>
+Prompting is an important new skill to learn for both using the models and building NLP-related apps.
+
+* [What is Prompting? Talking with AI Models...](https://youtu.be/pZsJbYIFCCw) - Free
+* [ChatGPT Prompt Engineering for Developers](https://imp.i384100.net/rQBVMy) - Paid
+* [Prompting!](https://learnprompting.org/) - This is a great **free** course I am contributing to, intending to teach prompting and give tips for specific models.
+
 
 ## More on Retrieval Augmented Generation (RAG)<a name="rag"></a>
+Most people build RAG-based apps currently. Here are a few resources that I loved to get you started and have a good understanding of it...
 
-TODO (jeremy tuto, openai tuto, TAI tuto...)
+* [Building a Q&A Chatbot using GPT and embeddings](https://youtu.be/LB5g-AhfPG8) - Applied YouTube Tutorial by [Jeremy Pinto](https://twitter.com/jerpint).
+* [How to build an AI that can answer questions about your website](https://platform.openai.com/docs/tutorials/web-qa-embeddings/how-to-build-an-ai-that-can-answer-questions-about-your-website) - Free OpenAI tutorial.
+* [How to Build a RAG-based ChatGPT Web App: Meet Our new AI Tutor](https://youtu.be/7ytyK6u3aAk) - YouTube introduction on how I built a RAG-based chatbot (and how you can, too).
+
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40whats_ai)](https://twitter.com/Whats_AI)
+
 
 ## More Resources<a name="moreresources"></a>
 ### Join communities!
