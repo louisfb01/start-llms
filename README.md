@@ -144,12 +144,6 @@ Most people build RAG-based apps currently. Here are a few resources that I love
     * [LatsestInML](https://www.reddit.com/r/LatestInML/) - Game-changing developments in machine learning you shouldn't miss
 
 
-----
-
-👀 **If you'd like to support my work**, you can check to [Sponsor](https://github.com/sponsors/louisfb01) this repository or support me on [Patreon](https://www.patreon.com/whatsai).
-
-----
-
 ### Follow the news in the field!
 
 * Subscribe to YouTube channels that share new papers - Stay up to date with the news in the field!
@@ -172,7 +166,7 @@ Most people build RAG-based apps currently. Here are a few resources that I love
    * [AI Weekly](http://aiweekly.co/) - A weekly collection of AI News and resources on Artificial Intelligence and Machine Learning.
    * [AI Ethics Weekly](https://lighthouse3.com/newsletter/) - The latest updates in AI Ethics delivered to your inbox every week.
    * [What's AI Weekly](https://louisbouchard.substack.com/) - One and only one paper clearly explained weekly with an article, video demo, demo, code, etc.
-   * [ThursdAI](https://sub.thursdai.news/) - Recaps of the most high signal AI weekly spaces!
+   * [ThursdAI](https://sub.thursdai.news/) - Recaps of the most high-signal AI weekly spaces!
    * [Toward's AI newsletter](https://towardsai.net/ai/newsletter) - Summarizing the most interesting news and learning resources weekly as well as community updates from the Learn AI Together Discord community. Perfect for ML professionals and enthusiasts.
     
 * Follow Medium publications
@@ -194,6 +188,13 @@ Most people build RAG-based apps currently. Here are a few resources that I love
 
 ## Learn more and do more... with LLMs<a name="domore"></a>
 ChatGPT, Bing, Claude... are incredible. Of course, they have limitations. Yet, you can leverage those to learn anything you want. I use it for coding or asking lots of questions in general. You need to double-check when you ask for important questions.
+Still, it is a powerful **tool**. Yes, it is a tool, not a human replacement. Use it as a _dumb_ assistant that knows about pretty much everything.
+
+Here's [a clear example](https://chat.openai.com/share/883389c9-f0f8-4a3e-a3af-ee9860d448a8) of how I used it for a project to better understand a function from a project I was not familiar with. This is for python, but those models are extremely powerful for coding in general, understanding new platforms (like AWS, GCP, working with a virtual machine, a server, SSH connections, etc.... anything you are not familiar with that is useful in the LLM space).
+
+_p.s. I didn't mention Bing and Claude for fun. Don't be overly dependent on a single company like OpenAI. There are (and will always be) other companies in the fight for the best LLM. I wanted to create an example for the guide this morning when..._
+
+[<img src="https://imgur.com/RDdL7el" width="512"/>](https://twitter.com/satourian/status/1722257478115811421)
 
 ---
 
