@@ -194,7 +194,7 @@ Here's [a clear example](https://chat.openai.com/share/883389c9-f0f8-4a3e-a3af-e
 
 _p.s. I didn't mention Bing and Claude for fun. Don't be overly dependent on a single company like OpenAI. There are (and will always be) other companies in the fight for the best LLM. I wanted to create an example for the guide this morning when..._
 
-[<img src="https://imgur.com/RDdL7el" width="512"/>](https://twitter.com/satourian/status/1722257478115811421)
+[<img src="https://imgur.com/RDdL7el.png" width="512"/>](https://twitter.com/satourian/status/1722257478115811421)
 
 ---
 
