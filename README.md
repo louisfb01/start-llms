@@ -2,6 +2,8 @@
 
 ## A complete guide to start and improve your LLM skills in 2023 without an advanced background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
 
+[<img src="https://imgur.com/la4Sfu4.png" width="512"/>](https://www.louisbouchard.ai/from-zero-to-hero-with-llms/)
+
 First, if you have 0 programming or AI knowledge, please follow [this guide](https://github.com/louisfb01/start-machine-learning) I made for this exact purpose and come back here!
 
 This guide is intended for anyone with a small background in programming and machine learning. There is no specific order to follow, but a classic path would be from top to bottom. If you don't like reading books, skip them. If you don't want to follow an online course, you can also skip it. There is not a single way to become a machine learning expert, and with motivation, you can absolutely achieve it.
