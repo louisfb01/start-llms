@@ -90,6 +90,7 @@ If you like some more guidance, I can advise checking out (optional) online cour
 _"Learn cutting-edge natural language processing techniques to process speech and analyze text. Build probabilistic and deep learning models, such as hidden Markov models and recurrent neural networks, to teach the computer to do tasks such as speech recognition, machine translation, and more!"_
 * [Introduction to Large Language Models with Google Cloud](https://imp.i115008.net/eKbDLD) - Paid
 * [Learn to train, fine-tune and use LLMs in your applications.](https://www.wandb.courses/pages/w-b-courses) - Free by Weights & Biases
+* [Large Language Models with Semantic Search](https://www.deeplearning.ai/short-courses/large-language-models-semantic-search/) - Free, Deeplearning.ai and Cohere
 
 You can easily google for more, but after reading and watching those, I believe you already have a good enough understanding of LLMs to get into the real deal: practice.
 
@@ -116,7 +117,7 @@ Prompting is an important new skill to learn for both using the models and build
 * [What is Prompting? Talking with AI Models...](https://youtu.be/pZsJbYIFCCw) - Free
 * [ChatGPT Prompt Engineering for Developers](https://imp.i384100.net/rQBVMy) - Paid
 * [Prompting!](https://learnprompting.org/) - This is a great **free** course intending to teach prompting and give tips for specific models. It is **all you need** for prompting!
-
+* [Techniques to improve reliability](https://github.com/openai/openai-cookbook/blob/main/articles/techniques_to_improve_reliability.md#techniques-to-improve-reliability) - OpenAI Cookbook on prompting techniques.
 
 ## More on Retrieval Augmented Generation (RAG)<a name="rag"></a>
 Most people build RAG-based apps currently. Here are a few resources that I loved to get you started and have a good understanding of it...
@@ -170,6 +171,7 @@ Most people build RAG-based apps currently. Here are a few resources that I love
    * [What's AI Weekly](https://louisbouchard.substack.com/) - One and only one paper clearly explained weekly with an article, video demo, demo, code, etc.
    * [ThursdAI](https://sub.thursdai.news/) - Recaps of the most high-signal AI weekly spaces!
    * [Toward's AI newsletter](https://towardsai.net/ai/newsletter) - Summarizing the most interesting news and learning resources weekly as well as community updates from the Learn AI Together Discord community. Perfect for ML professionals and enthusiasts.
+   * [The Batch](https://www.deeplearning.ai/the-batch/) - Andrew Ng / Deeplearning.ai
     
 * Follow Medium publications
     * [Towards Data Science](https://towardsdatascience.com/) - "Sharing concepts, ideas, and codes"
