@@ -116,7 +116,7 @@ Prompting is an important new skill to learn for both using the models and build
 
 * [What is Prompting? Talking with AI Models...](https://youtu.be/pZsJbYIFCCw) - Free
 * [ChatGPT Prompt Engineering for Developers](https://imp.i384100.net/rQBVMy) - Paid
-* [Prompting!](https://learnprompting.org/) - This is a great **free** course intending to teach prompting and give tips for specific models. It is **all you need** for prompting!
+* [Learn Prompting](https://learnprompting.org/) - This is a great **free** course intending to teach prompting and give tips for specific models. It is **all you need** for prompting!
 * [Techniques to improve reliability](https://github.com/openai/openai-cookbook/blob/main/articles/techniques_to_improve_reliability.md#techniques-to-improve-reliability) - OpenAI Cookbook on prompting techniques.
 
 ## More on Retrieval Augmented Generation (RAG)<a name="rag"></a>
