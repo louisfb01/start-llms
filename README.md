@@ -119,12 +119,15 @@ Prompting is an important new skill to learn for both using the models and build
 * [Learn Prompting](https://learnprompting.org/) - This is a great **free** course intending to teach prompting and give tips for specific models. It is **all you need** for prompting!
 * [Techniques to improve reliability](https://github.com/openai/openai-cookbook/blob/main/articles/techniques_to_improve_reliability.md#techniques-to-improve-reliability) - OpenAI Cookbook on prompting techniques.
 
-## More on Retrieval Augmented Generation (RAG)<a name="rag"></a>
+## More on Retrieval Augmented Generation (RAG) and fine-tuning<a name="rag"></a>
 Most people build RAG-based apps currently. Here are a few resources that I loved to get you started and have a good understanding of it...
 
+* [A Survey of Techniques for Maximizing LLM Performance](https://youtu.be/ahnGLM-RC1Y) - Amazing video by OpenAI covering when to use prompt engineering, RAG or fine-tuning. This is a must-see for everyone in the field!
+* [RAG vs Fine-Tuning vs Deep Memory vs training LLM from Scratch: when to do what with LLMs](https://youtu.be/pHv9SsE4Mb4) - Simlarly, this is a short video covering when you should use RAG, fine-tuning or prompt engineering in your applications.
 * [Building a Q&A Chatbot using GPT and embeddings](https://youtu.be/LB5g-AhfPG8) - Applied YouTube Tutorial by [Jeremy Pinto](https://twitter.com/jerpint).
 * [How to build an AI that can answer questions about your website](https://platform.openai.com/docs/tutorials/web-qa-embeddings/how-to-build-an-ai-that-can-answer-questions-about-your-website) - Free OpenAI tutorial.
 * [How to Build a RAG-based ChatGPT Web App: Meet Our new AI Tutor](https://youtu.be/7ytyK6u3aAk) - YouTube introduction on how I built a RAG-based chatbot (and how you can, too).
+* [Training & Fine-Tuning LLMs for Production](https://learn.activeloop.ai/courses/llms/) - Learn how to train and fine-tune LLMs from scratch.
 
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40whats_ai)](https://twitter.com/Whats_AI)
