@@ -19,7 +19,7 @@ Maintainer: [louisfb01](https://github.com/louisfb01), also active on [YouTube](
 Feel free to submit an issue for any great resources to add to this repository.
 
 
-***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis (What's AI) Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
+***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
 
 
 ## Table of Contents
@@ -47,7 +47,7 @@ If you are somewhat familiar with Python and AI, then I wish you happy learning!
 This is the best way to start from nothing. Here, I list a few of the best videos I found that will give you a great first introduction to the terms you need to know to get started in the LLM field.
     
 * Understanding the terminology
-    * [Mastering AI Jargon - Your Guide to OpenAI & LLM Terms - What's AI](https://youtu.be/q4G6X09NEu4) - A quick introduction to the most used terms in the LLM (or GPT) world.
+    * [Mastering AI Jargon - Your Guide to OpenAI & LLM Terms - Louis Bouchard](https://youtu.be/q4G6X09NEu4) - A quick introduction to the most used terms in the LLM (or GPT) world.
 * Understanding Transformers and LLMs (i.e. models behind ChatGPT)!
    * [Natural Language Processing and Large Language Models](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvYskDS2icIItfZgxclApVLv) - amazing video introductions to the attention mechanism, tokens, embeddings and more to better understand everything behind large language models like GPT by [Luis Serrano](https://twitter.com/SerranoAcademy).
    * [What are Transformer Models and how do they work?](https://youtu.be/qaWMOYf4ri8) - [Luis Serrano](https://twitter.com/SerranoAcademy)
@@ -55,11 +55,11 @@ This is the best way to start from nothing. Here, I list a few of the best video
    * [A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU) - by [Jeremy Howard (fast.ai)](https://twitter.com/jeremyphoward).
    * [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY) - by [Andrej Karpathy](https://twitter.com/karpathy).
 
-Another easy **way to get started and keep learning is by listening to podcasts** in your spare time. Driving to work, on the bus, or having trouble falling asleep? Listen to some AI podcasts to get used to the terms and patterns, and learn about the field through inspiring stories! I invite you to follow a few of the best I personally prefer, like [Lex Fridman](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL), [Machine Learning Street Talk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR), and obviously, my podcast: [What's AI by Louis Bouchard](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3), where you will learn about incredibly talented people in the field with inspiring stories sharing the knowledge they worked so hard to gather. A new one I really enjoy listening to that keeps me up to date is the [ThursdAI podcast](https://thursdai.news/) by my friend [Alex Volkov](https://twitter.com/altryne).
+Another easy **way to get started and keep learning is by listening to podcasts** in your spare time. Driving to work, on the bus, or having trouble falling asleep? Listen to some AI podcasts to get used to the terms and patterns, and learn about the field through inspiring stories! I invite you to follow a few of the best I personally prefer, like [Lex Fridman](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL), [Machine Learning Street Talk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR), and obviously, my podcast: [Louis Bouchard Podcast](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3), where you will learn about incredibly talented people in the field with inspiring stories sharing the knowledge they worked so hard to gather. A new one I really enjoy listening to that keeps me up to date is the [ThursdAI podcast](https://thursdai.news/) by my friend [Alex Volkov](https://twitter.com/altryne).
 
 ## Here is a list of awesome courses available on YouTube that you should definitely follow and are 100% free.
 
-* What's AI's LLM free course videos "[Train & Fine-Tune LLMs for Production Course by Activeloop, Towards AI & Intel Disruptor](https://youtube.com/playlist?list=PLO4GrDnQanVcPlQUBuMd_pwRkILfc463G&si=QbXeHeDs5RSKH3nY)". "A playlist for our LLM course: Gen AI 360: Foundational Model Certification!"
+* Louis Bouchard's LLM free course videos "[Train & Fine-Tune LLMs for Production Course by Activeloop, Towards AI & Intel Disruptor](https://youtube.com/playlist?list=PLO4GrDnQanVcPlQUBuMd_pwRkILfc463G&si=QbXeHeDs5RSKH3nY)". "A playlist for our LLM course: Gen AI 360: Foundational Model Certification!"
 * [Create a Large Language Model from Scratch with Python – Tutorial](https://youtu.be/UU1WVnMk4E8) - by [freeCodeCamp](https://twitter.com/freeCodeCamp). "Learn how to build your own large language model, from scratch. This course goes into the data handling, math, and transformers behind large language models. You will use Python."
 * [LLM University (LLMU) from Cohere](https://www.youtube.com/watch?v=uV1H6E8y_Sg&list=PLLalUvky4CLIpL4PkbTyf9DeXxJaZzEgU) - by [Cohere](https://twitter.com/cohere). LLM University (LLMU) is a set of comprehensive learning resources for anyone interested in natural language processing (NLP), from beginners to advanced learners.
 * [The Attention Mechanism in Large Language Models](https://www.youtube.com/watch?v=OxCpWwDCDFQ&list=PLs8w1Cdi-zva4fwKkl9EK13siFvL9Wewf) - by Luis Serrano. In this video series, Luis explains the Transformer architecture going increasingly in depth. It is a very good overview and explanation of Transformers and the attention mechanism that I believe should be watched by all AI professionals.
@@ -153,7 +153,7 @@ Most people build RAG-based apps currently. Here are a few resources that I love
 ### Follow the news in the field!
 
 * Subscribe to YouTube channels that share new papers - Stay up to date with the news in the field!
-    * [What's AI](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg) - Weekly videos covering new papers
+    * [Louis Bouchard](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg) - Weekly videos covering new papers
     * [Two Minutes Papers](https://www.youtube.com/user/keeroyz) - Bi-weekly videos covering new papers
     * [Bycloud](https://www.youtube.com/channel/UCgfe2ooZD3VJPB6aJAnuQng) - Weekly videos covering new papers
     
@@ -171,7 +171,7 @@ Most people build RAG-based apps currently. Here are a few resources that I love
    * [Inside AI](https://inside.com/ai) - A daily roundup of stories and commentary on Artificial Intelligence, Robotics, and Neurotechnology.
    * [AI Weekly](http://aiweekly.co/) - A weekly collection of AI News and resources on Artificial Intelligence and Machine Learning.
    * [AI Ethics Weekly](https://lighthouse3.com/newsletter/) - The latest updates in AI Ethics delivered to your inbox every week.
-   * [What's AI Weekly](https://louisbouchard.substack.com/) - One and only one paper clearly explained weekly with an article, video demo, demo, code, etc.
+   * [Louis Bouchard Weekly](https://louisbouchard.substack.com/) - One and only one paper clearly explained weekly with an article, video demo, demo, code, etc.
    * [ThursdAI](https://sub.thursdai.news/) - Recaps of the most high-signal AI weekly spaces!
    * [Toward's AI newsletter](https://towardsai.net/ai/newsletter) - Summarizing the most interesting news and learning resources weekly as well as community updates from the Learn AI Together Discord community. Perfect for ML professionals and enthusiasts.
    * [The Batch](https://www.deeplearning.ai/the-batch/) - Andrew Ng / Deeplearning.ai
@@ -206,7 +206,7 @@ _p.s. I didn't mention Bing and Claude for fun. Don't be overly dependent on a s
 ---
 
 
-***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis (What's AI) Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
+***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
 
 👀 **If you'd like to support my work**, you can check to [Sponsor](https://github.com/sponsors/louisfb01) this repository or support me on [Patreon](https://www.patreon.com/whatsai).
 
