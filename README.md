@@ -21,6 +21,10 @@ Feel free to submit an issue for any great resources to add to this repository.
 
 ***Tag me on Twitter [@Whats_AI](https://twitter.com/Whats_AI) or LinkedIn [@Louis Bouchard](https://www.linkedin.com/in/whats-ai/)  if you share the list!***
 
+### Want to know what this guide is about? Watch this video:
+
+[<img src="https://imgur.com/rS1d89V.png" width="512"/>](https://youtu.be/58XmJxb1x_o)
+
 
 ## Table of Contents
 - [Prerequesites](#prerequesites)
