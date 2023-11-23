@@ -53,6 +53,7 @@ This is the best way to start from nothing. Here, I list a few of the best video
 * Understanding the terminology
     * [Mastering AI Jargon - Your Guide to OpenAI & LLM Terms - Louis Bouchard](https://youtu.be/q4G6X09NEu4) - A quick introduction to the most used terms in the LLM (or GPT) world.
 * Understanding Transformers and LLMs (i.e. models behind ChatGPT)!
+* [Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g) - An amazing 1-hour talk from [Andrej Karpathy](https://twitter.com/karpathy).
    * [Natural Language Processing and Large Language Models](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvYskDS2icIItfZgxclApVLv) - amazing video introductions to the attention mechanism, tokens, embeddings and more to better understand everything behind large language models like GPT by [Luis Serrano](https://twitter.com/SerranoAcademy).
    * [What are Transformer Models and how do they work?](https://youtu.be/qaWMOYf4ri8) - [Luis Serrano](https://twitter.com/SerranoAcademy)
    * [The Illustrated Word2vec - A Gentle Intro to Word Embeddings in Machine Learning](https://youtu.be/ISPId9Lhc1g) - A clear explanation of word embeddings in machine learning by [Jay Alammar](https://twitter.com/JayAlammar).
