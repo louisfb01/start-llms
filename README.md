@@ -53,12 +53,12 @@ This is the best way to start from nothing. Here, I list a few of the best video
 * Understanding the terminology
     * [Mastering AI Jargon - Your Guide to OpenAI & LLM Terms - Louis Bouchard](https://youtu.be/q4G6X09NEu4) - A quick introduction to the most used terms in the LLM (or GPT) world.
 * Understanding Transformers and LLMs (i.e. models behind ChatGPT)!
-* [Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g) - An amazing 1-hour talk from [Andrej Karpathy](https://twitter.com/karpathy).
-   * [Natural Language Processing and Large Language Models](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvYskDS2icIItfZgxclApVLv) - amazing video introductions to the attention mechanism, tokens, embeddings and more to better understand everything behind large language models like GPT by [Luis Serrano](https://twitter.com/SerranoAcademy).
-   * [What are Transformer Models and how do they work?](https://youtu.be/qaWMOYf4ri8) - [Luis Serrano](https://twitter.com/SerranoAcademy)
-   * [The Illustrated Word2vec - A Gentle Intro to Word Embeddings in Machine Learning](https://youtu.be/ISPId9Lhc1g) - A clear explanation of word embeddings in machine learning by [Jay Alammar](https://twitter.com/JayAlammar).
-   * [A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU) - by [Jeremy Howard (fast.ai)](https://twitter.com/jeremyphoward).
-   * [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY) - by [Andrej Karpathy](https://twitter.com/karpathy).
+    * [Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g) - An amazing 1-hour talk from [Andrej Karpathy](https://twitter.com/karpathy).
+    * [Natural Language Processing and Large Language Models](https://www.youtube.com/playlist?list=PLs8w1Cdi-zvYskDS2icIItfZgxclApVLv) - amazing video introductions to the attention mechanism, tokens, embeddings and more to better understand everything behind large language models like GPT by [Luis Serrano](https://twitter.com/SerranoAcademy).
+    * [What are Transformer Models and how do they work?](https://youtu.be/qaWMOYf4ri8) - [Luis Serrano](https://twitter.com/SerranoAcademy)
+    * [The Illustrated Word2vec - A Gentle Intro to Word Embeddings in Machine Learning](https://youtu.be/ISPId9Lhc1g) - A clear explanation of word embeddings in machine learning by [Jay Alammar](https://twitter.com/JayAlammar).
+    * [A Hackers' Guide to Language Models](https://www.youtube.com/watch?v=jkrNMKz9pWU) - by [Jeremy Howard (fast.ai)](https://twitter.com/jeremyphoward).
+    * [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY) - by [Andrej Karpathy](https://twitter.com/karpathy).
 
 Another easy **way to get started and keep learning is by listening to podcasts** in your spare time. Driving to work, on the bus, or having trouble falling asleep? Listen to some AI podcasts to get used to the terms and patterns, and learn about the field through inspiring stories! I invite you to follow a few of the best I personally prefer, like [Lex Fridman](https://open.spotify.com/show/2MAi0BvDc6GTFvKFPXnkCL), [Machine Learning Street Talk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR), and obviously, my podcast: [Louis Bouchard Podcast](https://open.spotify.com/show/4rKRJXaXlClkDyInjHkxq3), where you will learn about incredibly talented people in the field with inspiring stories sharing the knowledge they worked so hard to gather. A new one I really enjoy listening to that keeps me up to date is the [ThursdAI podcast](https://thursdai.news/) by my friend [Alex Volkov](https://twitter.com/altryne).
 
