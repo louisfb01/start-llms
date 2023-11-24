@@ -133,6 +133,7 @@ Most people build RAG-based apps currently. Here are a few resources that I love
 * [How to build an AI that can answer questions about your website](https://platform.openai.com/docs/tutorials/web-qa-embeddings/how-to-build-an-ai-that-can-answer-questions-about-your-website) - Free OpenAI tutorial.
 * [How to Build a RAG-based ChatGPT Web App: Meet Our new AI Tutor](https://youtu.be/7ytyK6u3aAk) - YouTube introduction on how I built a RAG-based chatbot (and how you can, too).
 * [Training & Fine-Tuning LLMs for Production](https://learn.activeloop.ai/courses/llms/) - Learn how to train and fine-tune LLMs from scratch.
+* [Train and Deploy a Real-Time Financial Advisor](https://github.com/iusztinpaul/hands-on-llms) - Hands-on LLMs Course by [Paul Iusztin](https://github.com/iusztinpaul), [Pau Labarta Bajo](https://github.com/Paulescu) and [Alexandru Razvant](https://github.com/Joywalker).
 
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40whats_ai)](https://twitter.com/Whats_AI)
