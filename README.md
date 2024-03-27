@@ -73,6 +73,7 @@ Another easy **way to get started and keep learning is by listening to podcasts*
 ## LLM Books and articles (for readers)<a name="readers"></a>
 If you prefer the article and reading path, here are some suggestions:
 
+* [Building AI for Production: Enhancing LLM Abilities and Reliability with Fine-Tuning and RAG](https://amzn.to/3vvRCkG) - by Towards AI. "Discover the key tech stacks for adapting Large Language Models to real-world applications, including Prompt Engineering, Fine-tuning, and Retrieval Augment Generation."
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/) - by Jay Alammar. This is a famous article providing an amazing explanation to how current language models work.
 * [A Practical Introduction to LLMs](https://towardsdatascience.com/a-practical-introduction-to-llms-65194dda1148) - by [Shawhin Talebi](https://shawhin.medium.com/). 
 * [Medium](https://whats-ai.medium.com/membership) is pretty much the best place to find great explanations, either on [Towards AI](https://pub.towardsai.net/) or [Towards Data Science](https://towardsdatascience.com/) publications. I also share my own articles there and I love using the platform. You can subscribe to Medium using my affiliated link [here](https://whats-ai.medium.com/membership) if this sounds interesting to you and if you'd like to support me at the same time!
