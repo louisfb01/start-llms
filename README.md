@@ -45,6 +45,7 @@ If you have 0 programming or AI knowledge, please follow [this guide](https://gi
 
 If you are somewhat familiar with Python and AI, then I wish you happy learning!
 
+[<img src="https://imgur.com/hLr2aQF.png" width="512"/>](https://academy.towardsai.net/courses/beginner-to-advanced-llm-dev?ref=1f9b29)
 
 ## Start with short YouTube video introductions as a first step<a name="youtubevideos"></a>
 ### Start with short YouTube videos introductions
@@ -101,6 +102,7 @@ _"Learn cutting-edge natural language processing techniques to process speech an
 
 You can easily google for more, but after reading and watching those, I believe you already have a good enough understanding of LLMs to get into the real deal: practice.
 
+[<img src="https://imgur.com/hLr2aQF.png" width="512"/>](https://academy.towardsai.net/courses/beginner-to-advanced-llm-dev?ref=1f9b29)
 
 ## Practice, practice, and practice!<a name="practice"></a>
 ### Practice is key
