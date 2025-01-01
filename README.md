@@ -1,6 +1,6 @@
 # Start with Large Language Models (LLMs) - Become an expert for free!
 
-## A complete guide to start and improve your LLM skills in 2024 without an advanced background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
+## A complete guide to start and improve your LLM skills in 2025 without an advanced background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
 
 [<img src="https://imgur.com/la4Sfu4.png" width="512"/>](https://www.louisbouchard.ai/from-zero-to-hero-with-llms/)
 
