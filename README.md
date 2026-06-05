@@ -84,6 +84,7 @@ If you prefer the article and reading path, here are some suggestions:
 * [A complete roadmap to master NLP in 2022](https://www.analyticsvidhya.com/blog/2022/01/roadmap-to-master-nlp-in-2022/)
 * NLTK Book is the free resource to learn about fundamental theories behind NLP: https://www.nltk.org/book/
 * [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html) - Harvard
+* [LLM Flashcards](https://github.com/llmsresearch/llm-flashcards) - Hand-drawn flashcards covering transformer internals, attention, RAG, agents, fine-tuning, and inference. Useful for visual interview prep and quick revision.
 
 
 ## Follow online courses<a name="courses"></a>
