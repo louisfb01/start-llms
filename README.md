@@ -184,7 +184,7 @@ Most people build RAG-based apps currently. Here are a few resources that I love
 * Newsletters
    * [Synced AI TECHNOLOGY & INDUSTRY REVIEW](https://syncedreview.com/) - China's leading media & information provider for AI & Machine Learning.
    * [Inside AI](https://inside.com/ai) - A daily roundup of stories and commentary on Artificial Intelligence, Robotics, and Neurotechnology.
-   * [AI Weekly](http://aiweekly.co/) - A weekly collection of AI News and resources on Artificial Intelligence and Machine Learning.
+   * [AI Weekly](https://aiweekly.co/) - Discover what AI experts are reading and sharing right now, ranked and explained three times a week.
    * [AI Ethics Weekly](https://lighthouse3.com/newsletter/) - The latest updates in AI Ethics delivered to your inbox every week.
    * [Louis Bouchard Weekly](https://louisbouchard.substack.com/) - One and only one paper clearly explained weekly with an article, video demo, demo, code, etc.
    * [ThursdAI](https://sub.thursdai.news/) - Recaps of the most high-signal AI weekly spaces!
